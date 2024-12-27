@@ -50,3 +50,4 @@ int main(){
 
     showResult(result_vec_length,result_vec_direction);
 }
+
